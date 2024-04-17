@@ -1,0 +1,174 @@
+Reading image: IMG00.jpg 
+width: 474, height: 484
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+
+KERNEL M
+Sequential Time: 2.501875 ms
+GPU utilizada: 543913784
+Dimensiones: 474x484 
+nThreads: 32x32 (1024)
+nBlocks: 15x16 (240)
+Usando Pinned Memory
+Tiempo Global: 0.144028 milseg
+Tiempo Kernel: 0.013420 milseg
+Speedup Global: 17.370750
+Speedup Kernel: 186.428833
+TEST PASS 
+
+############################################# 
+############################################# 
+############################################# 
+Reading image: IMG01.jpg 
+width: 1366, height: 876
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+
+KERNEL M
+Sequential Time: 13.739127 ms
+GPU utilizada: 543913784
+Dimensiones: 1366x876 
+nThreads: 32x32 (1024)
+nBlocks: 43x28 (1204)
+Usando Pinned Memory
+Tiempo Global: 0.570568 milseg
+Tiempo Kernel: 0.035664 milseg
+Speedup Global: 24.079735
+Speedup Kernel: 385.237976
+TEST PASS 
+
+############################################# 
+############################################# 
+############################################# 
+Reading image: IMG02.jpg 
+width: 3072, height: 1728
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+
+KERNEL M
+Sequential Time: 58.758362 ms
+GPU utilizada: 1314769462
+Dimensiones: 3072x1728 
+nThreads: 32x32 (1024)
+nBlocks: 96x54 (5184)
+Usando Pinned Memory
+Tiempo Global: 2.161148 milseg
+Tiempo Kernel: 0.129224 milseg
+Speedup Global: 27.188498
+Speedup Kernel: 454.701599
+TEST PASS 
+
+############################################# 
+############################################# 
+############################################# 
+Reading image: IMG03.jpg 
+width: 3072, height: 1728
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+
+KERNEL M
+Sequential Time: 59.009373 ms
+GPU utilizada: 421744067
+Dimensiones: 3072x1728 
+nThreads: 32x32 (1024)
+nBlocks: 96x54 (5184)
+Usando Pinned Memory
+Tiempo Global: 2.161996 milseg
+Tiempo Kernel: 0.128744 milseg
+Speedup Global: 27.293934
+Speedup Kernel: 458.346558
+TEST PASS 
+
+############################################# 
+############################################# 
+############################################# 
+Reading image: IMG04.jpg 
+width: 5184, height: 3456
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+
+KERNEL M
+Sequential Time: 197.279358 ms
+GPU utilizada: 262219792
+Dimensiones: 5184x3456 
+nThreads: 32x32 (1024)
+nBlocks: 162x108 (17496)
+Usando Pinned Memory
+Tiempo Global: 6.934628 milseg
+Tiempo Kernel: 0.402092 milseg
+Speedup Global: 28.448441
+Speedup Kernel: 490.632385
+TEST PASS 
+
+############################################# 
+############################################# 
+############################################# 
+Reading image: IMG05.jpg 
+width: 5184, height: 3456
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+Filtrando
+
+KERNEL M
+Sequential Time: 198.698410 ms
+GPU utilizada: 1207138905
+Dimensiones: 5184x3456 
+nThreads: 32x32 (1024)
+nBlocks: 162x108 (17496)
+Usando Pinned Memory
+Tiempo Global: 6.933777 milseg
+Tiempo Kernel: 0.402556 milseg
+Speedup Global: 28.656591
+Speedup Kernel: 493.592041
+TEST PASS 
+
+############################################# 
+############################################# 
+############################################# 

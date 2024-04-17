@@ -1,0 +1,14 @@
+#Esta es la carpeta del tranajo de tarjetas gráficas y aceleradores
+
+- La carpeta de outputs contiene cada una de las imágenes con cada uno de los filtros
+
+- La carpeta tests contiene el tiempo de cada uno de los tests que hemos realizado (Una ejecución por cada filtro, y cada ejecución
+hace la media de 10)
+
+- En la carpeta base se encuentran los 5 filtros implementados (con el prefijo filter) y el programa principal (filtrar.cu)
+
+- En el programa principal estan definidas las constantes PINNED y ITER. ITER se usa para regular el numero de iteraciones (minimo tendrian que ser 3 para que los tiempos sean algo con sentido). La variable PINNED se usa para definir memoria pinned, aunque en este trabajo hemos fijado su valor a 1.
+
+- job.sh se usa para ejecutar el programa y el makefile para compilarlo
+
+- En esta carpeta también dejamos todas las imágenes que hemos usado.
